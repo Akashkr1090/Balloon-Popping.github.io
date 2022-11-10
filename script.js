@@ -1,5 +1,5 @@
 document.addEventListener("click",function(balloon){
-  balloon.target.style.backgroundColor ="white";
+  balloon.target.style.display ="none";
   console.log("you remove the bubble")
 
 })
